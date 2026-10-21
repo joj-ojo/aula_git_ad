@@ -17,3 +17,5 @@ print("Atualização remota pelo GitHub")
 #git commit -m "insira sua atualização sobre o novo commit"
 #git só versiona arquivos, não inclui pastas vazias
 #quando chega ao final, pode travar então apertar ESC ai quando aparecer dois pontos aperta q
+#git push origin main     ---------> push, ira mandar para a nuvem ou seja seu repostório
+#git pull origin main -------> pull puxa da nuvem o código do repositório e atualiza ele
