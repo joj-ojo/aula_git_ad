@@ -2,7 +2,7 @@ print("A turma AD 05 é TOP!")
 print("O Git é divertido")
 print("Atualização remota pelo GitHub")
 
-# git init inicializa um repositório do GeneratorExit
+# git init inicializa um repositório
 #(main) branch principal - linha do tempo principal
 # para sempre usar o nome (main) use o comando -> git config init.defaultBranch main 
 # git Branch -m main para renomear o branch
@@ -19,3 +19,4 @@ print("Atualização remota pelo GitHub")
 #quando chega ao final, pode travar então apertar ESC ai quando aparecer dois pontos aperta q
 #git push origin main     ---------> push, ira mandar para a nuvem ou seja seu repostório
 #git pull origin main -------> pull puxa da nuvem o código do repositório e atualiza ele
+
