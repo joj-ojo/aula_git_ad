@@ -14,6 +14,7 @@ print("Atualização remota pelo GitHub")
 #untracked -> arquivo novo Modified-> arquivo já versionado
 #para desfazer uma alteração no arquivo use git restore junto ao nome do arquivo
 # git status para entender a situaçãoa tual do arquivo
+#git add . para enviar para a lista de commit
 #git commit -m "insira sua atualização sobre o novo commit"
 #git só versiona arquivos, não inclui pastas vazias
 #quando chega ao final, pode travar então apertar ESC ai quando aparecer dois pontos aperta q
